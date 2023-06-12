@@ -1,2 +1,2 @@
 #!/bi/bash
-tr "A" "z" | "c" "e"
+tr "A" "z" | tr "c" "e"
